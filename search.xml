@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title></title>
+    <url>%2F2017%2F10%2F05%2FB%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>%2F2017%2F10%2F05%2Fzhaoyingxiang%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[hexo教程]]></title>
     <url>%2F2017%2F10%2F02%2Fhexo%E6%95%99%E7%A8%8B%2F</url>
     <content type="text"></content>
@@ -14,7 +24,7 @@
   <entry>
     <title><![CDATA[A]]></title>
     <url>%2F2017%2F10%2F01%2FA%2F</url>
-    <content type="text"><![CDATA[helloworld]]></content>
+    <content type="text"><![CDATA[hello world dou you like this]]></content>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
