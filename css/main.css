@@ -1844,7 +1844,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #61288f;
+  background: #4dffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2739,7 +2739,7 @@ pre .javascript .function {
 }
 .footer-inner {
   width: 960px;
-  /*padding-left: 260px;*/
+  padding-left: 260px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .footer-inner {
@@ -2905,7 +2905,7 @@ pre .javascript .function {
   color: #555;
 }
 .sidebar a:hover {
-  color: red;
+  color: #222;
 }
 .site-state-item {
   padding: 0 10px;
