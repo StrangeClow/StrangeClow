@@ -2739,7 +2739,7 @@ pre .javascript .function {
 }
 .footer-inner {
   width: 960px;
-  padding-left: 260px;
+  /*padding-left: 260px;*/
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .footer-inner {
@@ -2905,7 +2905,7 @@ pre .javascript .function {
   color: #555;
 }
 .sidebar a:hover {
-  color: #222;
+  color: red;
 }
 .site-state-item {
   padding: 0 10px;
