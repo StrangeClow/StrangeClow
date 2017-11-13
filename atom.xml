@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhaoyingxiang.top/"/>
-  <updated>2017-11-13T09:51:30.167Z</updated>
+  <updated>2017-11-13T09:58:30.766Z</updated>
   <id>http://zhaoyingxiang.top/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://zhaoyingxiang.top/2017/11/13/test/"/>
     <id>http://zhaoyingxiang.top/2017/11/13/test/</id>
     <published>2017-11-13T09:53:02.572Z</published>
-    <updated>2017-11-13T09:51:30.167Z</updated>
+    <updated>2017-11-13T09:58:30.766Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h1><h2 id="hexo-博客搭建"><a href="#hexo-博客搭建" class="headerlink" title="hexo 博客搭建"></a>hexo 博客搭建</h2>]]></content>
+    <content type="html"><![CDATA[<h1 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h1><h2 id="hexo-博客搭建"><a href="#hexo-博客搭建" class="headerlink" title="hexo 博客搭建"></a>hexo 博客搭建</h2><pre><code>function hello () {var s = &quot;hello world&quot;;var say: function () {alert(&quot;javascript &quot;);}}</code></pre>]]></content>
     
     <summary type="html">
     
