@@ -6,17 +6,6 @@
     <content type="text"><![CDATA[hexohexo 博客搭建123456function hello () &#123; var s = "hello world"; var say: function () &#123; alert("javascript "); &#125; &#125; [效果展示] {https://codepen.io/StrangeClow/pen/yPbdRL}]]></content>
   </entry>
   <entry>
-    <title><![CDATA[hexo教程]]></title>
-    <url>%2F2017%2F10%2F02%2Fhexo%E6%95%99%E7%A8%8B%2F</url>
-    <content type="text"></content>
-      <categories>
-        <category>前端</category>
-      </categories>
-      <tags>
-        <tag>前端</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2017%2F10%2F01%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
