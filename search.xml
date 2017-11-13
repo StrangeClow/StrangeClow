@@ -2,13 +2,8 @@
 <search>
   <entry>
     <title></title>
-    <url>%2F2017%2F10%2F05%2FB%2F</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title></title>
-    <url>%2F2017%2F10%2F05%2Fzhaoyingxiang%2F</url>
-    <content type="text"></content>
+    <url>%2F2017%2F11%2F13%2Ftest%2F</url>
+    <content type="text"><![CDATA[hexohexo 博客搭建]]></content>
   </entry>
   <entry>
     <title><![CDATA[hexo教程]]></title>
@@ -20,11 +15,6 @@
       <tags>
         <tag>前端</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[A]]></title>
-    <url>%2F2017%2F10%2F01%2FA%2F</url>
-    <content type="text"><![CDATA[hello world dou you like this]]></content>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>

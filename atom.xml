@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhaoyingxiang.top/"/>
-  <updated>2017-10-05T06:11:33.302Z</updated>
+  <updated>2017-11-13T09:51:30.167Z</updated>
   <id>http://zhaoyingxiang.top/</id>
   
   <author>
@@ -18,26 +18,19 @@
   
   <entry>
     <title></title>
-    <link href="http://zhaoyingxiang.top/2017/10/05/B/"/>
-    <id>http://zhaoyingxiang.top/2017/10/05/B/</id>
-    <published>2017-10-05T06:11:33.302Z</published>
-    <updated>2017-10-05T06:11:33.302Z</updated>
+    <link href="http://zhaoyingxiang.top/2017/11/13/test/"/>
+    <id>http://zhaoyingxiang.top/2017/11/13/test/</id>
+    <published>2017-11-13T09:53:02.572Z</published>
+    <updated>2017-11-13T09:51:30.167Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h1><h2 id="hexo-博客搭建"><a href="#hexo-博客搭建" class="headerlink" title="hexo 博客搭建"></a>hexo 博客搭建</h2>]]></content>
     
     <summary type="html">
     
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://zhaoyingxiang.top/2017/10/05/zhaoyingxiang/"/>
-    <id>http://zhaoyingxiang.top/2017/10/05/zhaoyingxiang/</id>
-    <published>2017-10-05T06:11:32.586Z</published>
-    <updated>2017-10-05T06:11:32.586Z</updated>
-    
-    <summary type="html">
+      
+      
+        &lt;h1 id=&quot;hexo&quot;&gt;&lt;a href=&quot;#hexo&quot; class=&quot;headerlink&quot; title=&quot;hexo&quot;&gt;&lt;/a&gt;hexo&lt;/h1&gt;&lt;h2 id=&quot;hexo-博客搭建&quot;&gt;&lt;a href=&quot;#hexo-博客搭建&quot; class=&quot;headerlink&quot; title=
+      
     
     </summary>
     
@@ -59,28 +52,6 @@
     
     
       <category term="前端" scheme="http://zhaoyingxiang.top/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>A</title>
-    <link href="http://zhaoyingxiang.top/2017/10/01/A/"/>
-    <id>http://zhaoyingxiang.top/2017/10/01/A/</id>
-    <published>2017-10-01T07:21:58.000Z</published>
-    <updated>2017-10-05T06:12:20.327Z</updated>
-    
-    <content type="html"><![CDATA[<p>hello world dou you like this</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;hello world dou you like this&lt;/p&gt;
-
-      
-    
-    </summary>
-    
     
   </entry>
   
